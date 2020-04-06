@@ -1,0 +1,44 @@
+.navbar-brand img {
+    max-width: 120px;
+    height: auto;
+}
+
+.nav-link {
+    font-size: 1.12rem;
+}
+
+.call-to-action {
+    color: #FF4500 !important;
+}
+
+.call-to-action:hover {
+    color: rgb(138, 40, 4) !important;
+}
+
+.text-main-color {
+    color: #FF4500 !important;
+}
+
+.category-box {
+    border-radius: 9px;
+    border: 1px solid #3490DC;
+    background: #F8FAFC;
+    box-shadow: -6px -6px 20px rgba(255, 255, 255, 1), 6px 6px 20px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+.category-box h5 {
+    margin-bottom: 0px !important;
+}
+
+.category-boxs {
+    border-radius: 6px;
+    border: 1px solid #7BABD1;
+    background: #F8FAFC;
+    box-shadow: -6px -6px 20px rgba(255, 255, 255, 1), 6px 6px 20px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+.category-boxs h5 {
+    margin-bottom: 0px !important;
+}
